@@ -8,3 +8,12 @@ Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi 
 - **Tratamento de Exceções (`try/except`):** O programa não quebra se o usuário digitar letras ou caracteres especiais onde deveriam ser números.
 - **Validação de Inputs:** Filtros inteligentes que impedem símbolos de operações inválidos e tratam respostas maiúsculas/minúsculas (ex: `S` ou `s`).
 - **Proteção Matemática:** Validação interna que impede a quebra do sistema por divisão por zero.
+
+## Como Executar o Projeto
+- Certifique-se de ter o Python instalado na sua máquina.
+- Baixe o arquivo `calculadora.py` deste repositório.
+- Abra o terminal na pasta do arquivo e execute o comando:
+
+ ```bash
+python calculadora.py
+
