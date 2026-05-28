@@ -1,6 +1,6 @@
 # Calculadora em Cadeia Inteligente
 
-Este é um projeto de uma calculadora em cadeia desenvolvida em Python. ele foi construído para ser totalmente à prova de erros de digitação do usuário e falhas matemáticas clássicas.
+Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi construído para ser totalmente à prova de erros de digitação do usuário e falhas matemáticas clássicas.
 
 ## Funcionalidades
 
