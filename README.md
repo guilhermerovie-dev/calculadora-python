@@ -10,16 +10,16 @@ Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi 
 - **Proteção Matemática:** Validação interna que impede a quebra do sistema por divisão por zero.
 
 ## Como Executar o Projeto
-### 1. Certifique-se de ter o Python instalado na sua máquina
+### 1. Certifique-se de ter o Python instalado na sua máquina.
 
-### 2. Clonar o repositório
+### 2. Clonar o repositório.
 ```bash
 git clone https://github.com/guilhermerovie-dev/calculadora-python.git
 cd calculadora-python
 ```
-### 3. Executar o arquivo
+### 3. Executar o arquivo.
 ```bash
-python3 calculadora.py
+python calculadora.py
 ```
 
 
