@@ -14,7 +14,7 @@ Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi 
 
 ### 2. Clonar o repositório
 ```bash
-git clone [https://github.com/guilhermerovie-dev/calculadora-python.git](https://github.com/guilhermerovie-dev/calculadora-python.git)
+git clone https://github.com/guilhermerovie-dev/calculadora-python.git
 cd calculadora-python
 ```
 ### 3. Executar o arquivo
