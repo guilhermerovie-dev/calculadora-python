@@ -19,7 +19,7 @@ cd calculadora-python
 ```
 ### 3. Executar o arquivo
 ```bash
-python calculadora.py
+python3 calculadora.py
 ```
 
 
