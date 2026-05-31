@@ -1,6 +1,6 @@
 # Calculadora em Cadeia Inteligente
 
-Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi construído para ser totalmente à prova de erros de digitação do usuário e falhas matemáticas clássicas.
+Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi construído para ser totalmente à prova de erros de digitação do usuário e falhas matemáticas.
 
 ## Funcionalidades
 
@@ -10,10 +10,16 @@ Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ele foi 
 - **Proteção Matemática:** Validação interna que impede a quebra do sistema por divisão por zero.
 
 ## Como Executar o Projeto
-- Certifique-se de ter o Python instalado na sua máquina.
-- Baixe o arquivo `calculadora.py` deste repositório.
-- Abra o terminal na pasta do arquivo e execute o comando:
+### 1. Certifique-se de ter o Python instalado na sua máquina
 
- ```bash
+### 2. Clonar o repositório
+```bash
+git clone [https://github.com/guilhermerovie-dev/calculadora-python.git](https://github.com/guilhermerovie-dev/calculadora-python.git)
+cd calculadora-python
+```
+### 3. Executar o arquivo
+```bash
 python calculadora.py
+```
+
 
