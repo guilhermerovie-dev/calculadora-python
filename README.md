@@ -10,11 +10,9 @@ Este é um projeto de uma calculadora em cadeia desenvolvida em Python. Ela foi 
 - **Proteção Matemática:** Validação interna que impede a quebra do sistema por divisão por zero.
 
 ## Como Executar o Projeto
-1. Certifique-se de ter o Python instalado na sua máquina.
+1. Baixe o arquivo e abra o terminal na pasta dele.
 
-2. Baixe o arquivo do projeto e abra o terminal na pasta dele.
-
-3. Executar o arquivo.
+2. Executar o arquivo.
 ```bash
 python calculadora.py
 ```
